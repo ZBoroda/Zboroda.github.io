@@ -11,3 +11,9 @@ body {
     margin: 10px
 } 
 
+.profilePic {
+    margin: 10px;
+    width: 200px;
+    border-radius: 50%;
+}
+
